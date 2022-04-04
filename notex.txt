@@ -1,0 +1,3 @@
+This version is without the secret key
+
+Notice how the api call was NOT done in App.js
